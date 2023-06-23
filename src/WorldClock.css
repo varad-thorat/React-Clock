@@ -1,0 +1,14 @@
+.main{
+    border: 2px solid;
+    border-radius: 0px;
+    height: 450px;
+    width: 40%;
+    background-color: blanchedalmond;
+}
+
+.main-bottom{
+    display: flex;
+    flex-direction: 10px;
+    margin: 5%;
+    justify-content: space-between;
+}
